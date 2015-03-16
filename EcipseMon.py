@@ -83,8 +83,8 @@ def measureNoise(smf):
             if debug6:
                 return
 
-# Frequencies  monitored 3.499, 5.258, 6.999, 10.090 and 13.399MHz
-freq = ['03499000', '05258000', '06999000', '10090000', '13399000']
+# Frequencies  monitored 882kHz, 810kHz, 1332kHz, 747kHz
+freq = ['00882000', '00810000', '01332000', '00747000']
 
 print ('NoiseFloor')
 
